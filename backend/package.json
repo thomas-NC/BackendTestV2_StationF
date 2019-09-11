@@ -1,0 +1,19 @@
+{
+  "name": "backendtestv2",
+  "version": "1.0.0",
+  "description": "test backend dans le cadre du processus de recrutement chez station F",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "thomas-nc",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.13",
+    "nodemon": "^1.19.2",
+    "vue": "^2.6.10"
+  }
+}
